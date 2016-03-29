@@ -10,6 +10,7 @@ Sample app to retreive data from server
 - Displays data in a ReceyclerView List
 - Card view (MAterial Design)
 - Swipe to refresh
+- Clickable links in the displayed text
 - Checks for run time internet permission for API level 23 and above.
 - Snackbar alert if unable to connect to database.
 
