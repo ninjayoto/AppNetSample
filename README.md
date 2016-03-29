@@ -8,7 +8,7 @@ Sample app to retreive data from server
 - Retreives data using Retrofit Library
 - Retreives and manages images using Picasso library
 - Displays data in a ReceyclerView List
-- Card view (MAterial Design)
+- Card view (Material Design)
 - Swipe to refresh
 - Clickable links in the displayed text
 - Checks for run time internet permission for API level 23 and above.
@@ -16,4 +16,4 @@ Sample app to retreive data from server
 
 ##To Do:
 - Database for offline use (realm.io)
-- Intent service with Alarm manager to periodically retreive data and update database in the background.
+- Intent service with alarm manager to periodically retreive data and update database in the background.
