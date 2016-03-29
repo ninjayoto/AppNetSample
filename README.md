@@ -12,6 +12,7 @@ Sample app to retreive data from server
 - Swipe to refresh
 - Clickable links in the displayed text
 - Checks for run time internet permission for API level 23 and above.
+- Minimum API level 16.
 - Snackbar alert if unable to connect to database.
 
 ##To Do:
