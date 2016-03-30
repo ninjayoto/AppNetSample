@@ -16,5 +16,6 @@ Sample app to retreive data from server
 - Snackbar alert if unable to connect to database.
 
 ##To Do:
+
 - Database for offline use (realm.io)
 - Intent service with alarm manager to periodically retreive data and update database in the background.
