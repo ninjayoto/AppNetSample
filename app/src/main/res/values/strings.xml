@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Net</string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_snackbar">Cannot retrieve data, please check your connection</string>
+</resources>
